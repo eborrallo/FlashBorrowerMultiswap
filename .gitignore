@@ -4,6 +4,9 @@ coverage
 coverage.json
 typechain
 
+#Remix
+.deps
+
 #Hardhat files
 cache
 artifacts
